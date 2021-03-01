@@ -1,4 +1,5 @@
 搬运自别处！！！
+[原文链接](https://github.com/imuncle/live2d)
 # live2d
 live2d模型收集+展示，可直接用于静态网站
 
